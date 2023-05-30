@@ -1,4 +1,4 @@
-package array_update_and_adding_elements;
+package arrays.array_update_and_adding_elements;
 
 public class ArrayUtil {
 

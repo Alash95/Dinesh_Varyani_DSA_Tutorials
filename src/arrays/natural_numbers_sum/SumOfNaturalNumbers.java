@@ -1,4 +1,4 @@
-package natural_numbers_sum;
+package arrays.natural_numbers_sum;
 
 public class SumOfNaturalNumbers {
 
